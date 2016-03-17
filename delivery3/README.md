@@ -3,7 +3,7 @@
 Somehow, I have been extremely fascinated about this "Tale of Three Brothers" story from the Harry Potter and the Deathly Hallows. Partly because I am big fan a story well told...
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bN1_h_eGit" target="_blank"><img src="http://img.youtube.com/vi/bN1_h_eGit/0.jpg" alt="Tale of Three Brothers" width="240" height="180" border="10"/></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bN1_h_eGitE" target="_blank"><img src="http://img.youtube.com/vi/bN1_h_eGitE/0.jpg" alt="Tale of Three Brothers" width="240" height="180" border="10"/></a>
 
 Strangely it so happens there are a couple things to take away from this story when you are adopting Cloud your application hosting needs. And you would be surprised to see the strange resemblance to actual story.
 
